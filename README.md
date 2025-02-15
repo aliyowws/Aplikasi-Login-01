@@ -5,3 +5,4 @@ Alur menggunakan aplikasi login;
 1. Memasukkan email dan password
 2. Validasi email dan password
 3. Masuk ke halaman beranda jika validasi benar
+4. Kembali memasukkan email dan password apabila validasi salah
